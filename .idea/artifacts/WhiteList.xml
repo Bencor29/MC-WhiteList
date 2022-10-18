@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WhiteList">
+    <output-path>$PROJECT_DIR$/classes/artifacts/WhiteList</output-path>
+    <root id="archive" name="WhiteList.jar">
+      <element id="module-output" name="WhiteList" />
+    </root>
+  </artifact>
+</component>
